@@ -1,0 +1,3 @@
+select volume c
+rem set desired value to linux partition size in mb
+shrink desired=10240
